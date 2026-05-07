@@ -11,6 +11,18 @@
       "username": "postgres",
       "connectionTimeout": 30,
       "password": "joshua765"
+    },
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "practice_analysis",
+      "database": "analysis",
+      "username": "postgres",
+      "password": "joshua765",
+      "connectionTimeout": 30
     }
   ]
 }
